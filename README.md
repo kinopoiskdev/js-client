@@ -1,1 +1,1 @@
-# kinopoiskdev-js
+# kinopoisk.dev JS library
